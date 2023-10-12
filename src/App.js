@@ -24,8 +24,6 @@ import AdminCoach from './pages/AdminCoach';
 import MatchSuccess from "./pages/MatchSuccess";
 import StudentMatchedAlready from "./pages/StudentMatchedAlready";
 import CoachMax from "./pages/CoachMax";
-import MatchSuccess from "./pages/MatchSuccess";
-import CoachMax from "./pages/CoachMax";
 
 
 
