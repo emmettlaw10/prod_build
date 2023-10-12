@@ -21,9 +21,9 @@ import MatchingPage from "./pages/MatchingPage";
 import AdminStudent from "./pages/AdminStudent";
 import AdminNavbar from "./components/adminNavbar/adminNavbar";
 import AdminCoach from './pages/AdminCoach';
-import matchSuccess from "./pages/MatchSuccess";
+import MatchSuccess from "./pages/MatchSuccess";
 import StudentMatchedAlready from "./pages/StudentMatchedAlready";
-import coachMax from "./pages/CoachMax";
+import CoachMax from "./pages/CoachMax";
 import MatchSuccess from "./pages/MatchSuccess";
 import CoachMax from "./pages/CoachMax";
 
